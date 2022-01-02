@@ -63,6 +63,8 @@ tutorial, [you'll love the book, which contains 80% more content!](http://www.sp
 25. [Supporting this project](#supportingthisproject)
 
 <a id='introduction'></a>
+
+[last read](#usingaliases)
 Introduction
 ------------
 
