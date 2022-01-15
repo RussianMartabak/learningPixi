@@ -64,7 +64,7 @@ tutorial, [you'll love the book, which contains 80% more content!](http://www.sp
 
 <a id='introduction'></a>
 
-[last read](#textureatlas)  
+[last read](#creating-sprites-from-a-loaded-texture-atlas)  
 Introduction
 ------------
 
